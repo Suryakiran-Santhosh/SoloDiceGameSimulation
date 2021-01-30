@@ -1,6 +1,6 @@
 """
 ECS 132: Probability and Statistical Modeling for Computer Science
-By: Suryakiran Santhosh
+By: Suryakiran Santhosh, Stephen Wong, Patrick Chan, and Curtis Stofer
 University of California Davis Winter 2021
 Homework #1 Problem 2 (Jill Solo Dice Game Simulation - Recursive)
 """
